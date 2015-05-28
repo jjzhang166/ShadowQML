@@ -8,7 +8,7 @@ This is a demo of QML2.0 implementing,It is completely cross platform, and runs 
 
 ### PreView
 
-[PreView](https://git.oschina.net/duoduozhijiao/ShadowQML/blob/master/QQ%E6%88%AA%E5%9B%BE20150528120259.png).
+![PreView](https://git.oschina.net/duoduozhijiao/ShadowQML/blob/master/QQ%E6%88%AA%E5%9B%BE20150528120259.png).
 
 ### Dependencies
 
